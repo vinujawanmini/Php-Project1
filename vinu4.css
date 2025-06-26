@@ -1,0 +1,30 @@
+body{
+    background-color: gray ;
+}
+
+fieldset{
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    max-height: 600px; 
+    overflow-y: auto
+}
+
+.line1{
+    height: 50px;
+    text-align: center;
+    background-color: rgb(41, 39, 39);
+    color: white;
+}
+
+.line2{
+    margin-left: 100px;
+
+}
+
+.line3{
+    margin-left: 150px;
+    color: rgb(161, 163, 165);
+
+}

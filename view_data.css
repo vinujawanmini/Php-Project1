@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(117, 114, 114) ;
+    background-image: url("view5.jpg");
+    background-size:cover;
+} 
+table {
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-left: 100px;
+    border-radius: 5px;
+}
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+th {
+    background-color: #f2f2f2;
+}
+.but{
+    background-color: rgb(75, 153, 209);
+    border: none;
+    color: white;
+    padding: 11px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 4px;
+    font-size: 12px;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-left: 700px;
+}
+
+.but:hover{
+    background-color: black;
+}

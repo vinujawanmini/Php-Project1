@@ -1,0 +1,60 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #cbcbcf;
+}
+
+header {
+    background-color: #7a7b7a;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+section {
+    width: 400px;
+    height: 300px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin: 10px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+p {
+    line-height: 1.5;
+    text-align: center;
+}
+
+fieldset{
+   
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+
+
+
+
+.field3{
+    background-image: url("vinu2bG.jpg");
+    background-size: cover;
+    
+    align-items: center;
+   
+}

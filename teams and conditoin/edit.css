@@ -1,0 +1,50 @@
+body{
+    background-image: url("");
+    background-color: gray;
+    
+}
+
+fieldset{
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+form{
+    text-align: center;
+}
+
+h2{
+    background-color: rgb(143, 187, 199);
+    text-align: center;
+}
+
+img{
+    width: 500px;
+    height: 300px;
+}
+
+.but{
+    background-color: gray;
+    border: none;
+    color: white;
+    padding: 11px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 4px;
+    font-size: 12px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.but:hover{
+    background-color: black;
+}
+
+input{
+    border-radius: 5px;
+    
+}
+

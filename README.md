@@ -1,2 +1,2 @@
 # Php-Project1
-OOC Module Project - Online Teacher Trainer project
+OOC Module Project - Online Teacher Trainer Platform

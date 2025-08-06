@@ -7,7 +7,7 @@ This is a part of a **Online Teacher Trainer Platform** project developed for th
 
 ---
 
-# 🏆 Certificate Page -
+# 🏆 Certificate Page
 
 This is a sub-module of the **Online Teacher Trainer Platform** project, developed for the **Object Oriented Concepts (OOC)** module. This section focuses on the **Certificate Page**, which displays student course completion and pass level.
 
